@@ -101,7 +101,7 @@ graph TD
 ![img.png](refs/img.png)
 
 ### 5. Программа
-```markdown
+
     ```java
 import java.io.PrintStream;
 import java.util.Scanner;
